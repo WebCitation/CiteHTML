@@ -1,2 +1,3 @@
 remote_theme: benbalter/retlab
-theme: retlab
+remote_theme: WebCitation/tzm-jekyll-theme
+theme: tzm-jekyll-theme
